@@ -1,6 +1,2 @@
-Hallo, Guten Tag,
-
-Wie geht es Ihnen heute?
-
-
-Tschau
+First Line: blablablubbblubbberberbeh
+Second Line: burzelburzle
